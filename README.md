@@ -5,6 +5,9 @@ Tracko is a real-time truck tracking and monitoring system designed to help mini
 
 ---
 
+## 📷 Landing Page
+<img src="login1.jpg" alt="Tracko Dashboard" width="300"/>
+
 ## ❓ Problem Statement
 In the mining industry, trucks often transport valuable resources. However, manual monitoring poses several challenges:
 
@@ -97,7 +100,7 @@ npm start
 ---
 
 ## 📷 Project Snapshot
-![Tracko Dashboard](https://via.placeholder.com/1200x600.png?text=Tracko+Dashboard+Snapshot)
+![Tracko Dashboard](login1.jpg)
 
 ---
 
@@ -116,3 +119,4 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ## 📜 License
 This project is licensed under the MIT License.
+
