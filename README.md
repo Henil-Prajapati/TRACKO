@@ -100,7 +100,7 @@ npm start
 ---
 
 ## 📷 Project Snapshot
-![Tracko Dashboard](login1.jpg)
+![Tracko Dashboard](Login_photo.png)
 
 ---
 
@@ -119,4 +119,5 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ## 📜 License
 This project is licensed under the MIT License.
+
 
